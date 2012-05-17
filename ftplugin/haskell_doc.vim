@@ -878,5 +878,3 @@ function! HaddockIndexLookup(name)
   endif
   return g:haddock_index[a:name]
 endfunction
-
-ftplugin/haskell_hpaste.vim	

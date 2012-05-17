@@ -77,4 +77,3 @@ endfunction
 "   let cmd = g:wget.' --post-data="content='.join(lines,'').'&nick='.nick.'&title='.title.'&announce='.announce.'" '.url
 "   exe escape(cmd,'%')
 " endfunction
-autoload/haskellmode.vim	
